@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Visual Studio Code
+.vscode/
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
