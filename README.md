@@ -64,23 +64,33 @@ BankManagementSystem.exe
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+The main menu provides options to add accounts, display all accounts, search for an account, deposit money, or exit the application.
+
+![Main Menu](screenshots/main-menu.png)
+
+---
 
 ### Add Account
 
+Create one or more bank accounts by entering the account holder's name and the initial balance.
+
 ![Add Account](screenshots/add-account.png)
 
-### Display Accounts
-
-![Display Accounts](screenshots/display-accounts.png)
+---
 
 ### Search Account
 
+Search for an existing account by entering the account holder's name. If the account exists, its details are displayed.
+
 ![Search Account](screenshots/search-account.png)
 
-### Deposit Money
+---
 
-![Deposit Money](screenshots/deposit-money.png)
+### Account Not Found
+
+If the entered account name does not exist, the application informs the user with an appropriate message.
+
+![Account Not Found](screenshots/account-not-found.png)
 
 ---
 
