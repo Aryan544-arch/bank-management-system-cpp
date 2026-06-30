@@ -66,7 +66,7 @@ BankManagementSystem.exe
 
 The main menu provides options to add accounts, display all accounts, search for an account, deposit money, or exit the application.
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/menu.png)
 
 ---
 
@@ -90,7 +90,6 @@ Search for an existing account by entering the account holder's name. If the acc
 
 If the entered account name does not exist, the application informs the user with an appropriate message.
 
-![Account Not Found](screenshots/account-not-found.png)
 
 ---
 
